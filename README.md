@@ -12,7 +12,7 @@ It also facilitates login/logout capability using `express-session`.
 
 I made this app to learn about `handlebars` including `layouts` and `partials`, and also the `Model-View-Controller` modularization.
 
-Deployed API: https://fundr.herokuapp.com/api/
+Deployed: https://fundr.herokuapp.com/
 
 ## Installation
 
